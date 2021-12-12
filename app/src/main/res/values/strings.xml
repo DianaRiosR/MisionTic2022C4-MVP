@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MytaskNivelapp</string>
+    <string name="enter_task_description">Enter task description</string>
 </resources>
